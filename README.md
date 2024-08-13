@@ -1,6 +1,14 @@
-- 👋 Hi, I’m @p-o-s-t
-- 👀 I’m an intelligence professional who has worked in the cyberspace domain, generating Operational, Tactical, and Technical intelligence
+![hello-there-hi-there-1659136221](https://github.com/user-attachments/assets/4ec363cb-7ff9-4816-bce9-830b399762b4) 
+
+👋 I’m @p-o-s-t
+
+---
+## About Me
+- 🖥️ I’m an intelligence professional working in the cyberspace domain, primarily producing Operational and Tactical intelligence.
 - 🌱 I haven't mastered any computer language, but I am familiar with Java, Python, PowerShell, and Bash.  JavaScript is the devil. 👿
+- 🏫 Always looking for ways to improve and learn, whether it be through CTFs or educational institutes or online learning platforms.
+- 🧠 Currently learning about how to Thrunt with the best of them.
+---
 
 The profile picture was made by the very talented **[`NICO_N_ART`](https://www.artstation.com/nico_n)**.
 <!---
