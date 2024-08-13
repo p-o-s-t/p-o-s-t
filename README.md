@@ -7,9 +7,9 @@
 
 🖥️ I’m an intelligence professional working in the cyberspace domain that's just shy of 3 years of experience 👶
 
-🌱 I haven't mastered any computer language, but I am familiar with Java, Python, PowerShell, and Bash.  JavaScript is the devil. 👿
+🌱 Haven't mastered a computer language, but I am familiar with Java, Python, PowerShell, and Bash.  JavaScript is the devil. 👿
 
-🏫 Always looking for ways to improve and learn, whether it be through CTFs or educational institutes or online learning platforms.
+🏫 Always looking for ways to improve and learn: CTFs, educational institutes, or online learning platforms.
 
 🧠 Currently learning about how to Thrunt with the best of them.
 
