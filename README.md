@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @p-o-s-t
-- 👀 I’m interested in threat intel mostly, but I do enjoy learning more about how malware works
-- 🌱 I’m currently learning PowerShell, with aspirations to learn Go next
+- 👀 I’m an intelligence professional who has worked in the cyberspace domain, generating Operational, Tactical, and Technical intelligence
+- 🌱 I haven't mastered any computer language, but I am familiar with Java, Python, Powershell, and Bash.  JavaScript is the devil. 👿
 
 <!---
 p-o-s-t/p-o-s-t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
